@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Custom Linked List\Custom Linked List\bin\Debug\net8.0\Custom Linked List.exe
+C:\Users\user\source\repos\Custom Linked List\Custom Linked List\bin\Debug\net8.0\Custom Linked List.deps.json
+C:\Users\user\source\repos\Custom Linked List\Custom Linked List\bin\Debug\net8.0\Custom Linked List.runtimeconfig.json
+C:\Users\user\source\repos\Custom Linked List\Custom Linked List\bin\Debug\net8.0\Custom Linked List.dll
+C:\Users\user\source\repos\Custom Linked List\Custom Linked List\bin\Debug\net8.0\Custom Linked List.pdb
+C:\Users\user\source\repos\Custom Linked List\Custom Linked List\obj\Debug\net8.0\Custom Linked List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Custom Linked List\Custom Linked List\obj\Debug\net8.0\Custom Linked List.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Custom Linked List\Custom Linked List\obj\Debug\net8.0\Custom Linked List.AssemblyInfo.cs
+C:\Users\user\source\repos\Custom Linked List\Custom Linked List\obj\Debug\net8.0\Custom Linked List.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Custom Linked List\Custom Linked List\obj\Debug\net8.0\Custom Linked List.dll
+C:\Users\user\source\repos\Custom Linked List\Custom Linked List\obj\Debug\net8.0\refint\Custom Linked List.dll
+C:\Users\user\source\repos\Custom Linked List\Custom Linked List\obj\Debug\net8.0\Custom Linked List.pdb
+C:\Users\user\source\repos\Custom Linked List\Custom Linked List\obj\Debug\net8.0\Custom Linked List.genruntimeconfig.cache
+C:\Users\user\source\repos\Custom Linked List\Custom Linked List\obj\Debug\net8.0\ref\Custom Linked List.dll
